@@ -1,8 +1,8 @@
 # Base information
 baseURL = "http://localhost:1313/"
-languageCode = "en-gb"
+languageCode = "en_GB"
 title = "Jose Maria Aranguren"
-googleAnalytics = "es"
+googleAnalytics = "en_GB"
 
 
 [module]
@@ -50,7 +50,7 @@ googleAnalytics = "es"
 [params]
 home = "Home"
 # Meta data
-description = "El sitio web de Jose MAria Aranguren, desarrollador"
+description = "El sitio web de Jose Maria Aranguren, desarrollador"
 author = "Jose Maria Aranguren"
 
 
@@ -59,9 +59,9 @@ author = "Jose Maria Aranguren"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
+  email = "jmarangueren@gmail.com"
   address = "Madrid, España"
-  googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
+  googlemaps = "https://es.wikipedia.org/wiki/Madrid"
 
 [markup]
   [markup.highlight]
