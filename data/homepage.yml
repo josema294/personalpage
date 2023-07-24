@@ -3,8 +3,8 @@ banner:
   title: Hola, soy Jose María Aranguren
 social:
   twitter: ""
-  linkedin: sam-robbins-gb
-  github: samrobbins85
+  linkedin: jose-maria-aranguren-080a70b3
+  github: josema294
   gitlab: ""
   facebook: ""
   instagram: ""
@@ -19,9 +19,20 @@ skill:
   enable: true
   item:
     - title: Java
-      #logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
-      logo: https://www.vectorlogo.zone/logos/java/java-vertical.svg
+      logo: https://www.vectorlogo.zone/logos/java/java-icon.svg
       description: Se podria decir que Java es mi lenguaje principal y con el que me siento mas comodo programando, desde que inicie mis estudios formales de programacion ha sido así y aunque me gusta tener un enfoque de versatilidad y poder manejarme con multiples tecnologias lo cierto es que Java es donde más conocimiento acumulo y este es mas profudo.
+    - title: Spring
+      logo: https://www.vectorlogo.zone/logos/springio/springio-icon.svg
+      description: Teniando a Java como lenguaje principal no es de extrañar que Spring sea el framework para desarrollo web con el que acumulo más experiencia, en la seccion e proyectos podras ver algunos de los proyectos en los que lo he empleado en detalle.
+    - title: Android
+      logo: https://www.vectorlogo.zone/logos/android/android-icon.svg
+      description: Me declaro apasionado del desarrollo movil, concretamente centado en android nativo, para mi un proyecto supone una posibilidad de enfrentarme a multiples retos, que hay que enfocar de forma multidisciplinar para poder sacar adelante una aplicacion viable. 
+    - title: Kotlin
+      logo: https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg
+      description: A pesar de tener Java como lenguaje principal, a la hora de desarrollar aplicaciones moviles opto siempre que me es posible por Kotlin, se ha convertido el lenguaje prioritario para Google en este ambito, ademas de que tambien es posible usarse para backend con el framework Spring, por lo que poder dominarlo se convirtio en una prioridad para mi.
+    - title: Hugo
+      logo: https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/hugo/hugo-original.svg
+      description: Interesado en los generadores de webs estaticos, de estos Hugo ha sido con el que más he podido trabajr, sin ir mas lejos esta misma web esta creada uasndo Hugo como tecnologia primaria. Algunos de los detalles de porque me parecen tan interesante estas tecnologias los podrás encontrar en el blog.
 experience:
   enable: true
   item:
