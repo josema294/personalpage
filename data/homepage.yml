@@ -15,6 +15,9 @@ about:
   button:
     btnText: Más sobre mi
     URL: "/about"
+
+
+
 skill:
   enable: true
   item:
@@ -33,13 +36,35 @@ skill:
     - title: Hugo
       logo: https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/hugo/hugo-original.svg
       description: Interesado en los generadores de webs estaticos, de estos Hugo ha sido con el que más he podido trabajar, sin ir mas lejos esta misma web esta creada uasndo Hugo como tecnologia primaria. Algunos de los detalles de porque me parecen tan interesante estas tecnologias los podrás encontrar en el blog.
+    - title: Linux
+      logo: /linux-icon.svg
+      description: Usuario de Linux como sistema principal, buen manejo del sistema con la terminal, manejo de Bash a un nivel medio y conocimientos en materia de ciberseguridad.
+
+
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+    - logo: /images/Afi-72ppp.png
+      title: Programador junior
+      company: AFI sta
+      duration: Junio 2023 - Actualmente
+
+    - logo: /images/Afi-72ppp.png
+      title: Programador en practicas
+      company: AFI sta
+      duration: Febrero 2023 - Junio 23
+
+    - logo: /images/logo_sanitas.png 
+      title: Facturacion Hospital Virgen del Mar
+      company: Sanitas S.A de Hospitales
+      duration: Octubre 2016 - Diciembre 22
+
+    - logo: /images/logo_sanitas.png
+      title: Expansion y desarrollo de negocio
+      company: Sanitas S.A de Hospitales
+      duration: Noviembre 2015 - Octubre 2016
+
+
 hackathons:
   enable: false
   item:
@@ -47,19 +72,54 @@ hackathons:
       description: Climate change simulator
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
       url: none
+
+
+
 certifications:
   enable: true
   item:
-    - title: Microsoft Azure Fundamentals
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
-      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+    - title: "Machine Learning : Regression and Classification DeepLearning.AI & Stanford University"
+      image: https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/T9BLVXTTBAPW
+
+    - title: Programa Especializado - Python 3 Programming, Universidad de Michigan
+      image: https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/T9BLVXTTBAPW
+
+    - title: Programa Especializado - AI Foundations for Everyone, IBM
+      image: https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/RWWYZFKPC85C
+
+    - title: Programa Especializado - IBM Applied AI
+      image: https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/YH8GHW6QABV8
+
+    - title: Programa Especializado - Python for Everybody, Universidad de Michigan
+      image: https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/KELV8M9ZM63U
+
+
+
 education:
   enable: true
   item:
-    - title: BSc Computer Science
-      year: 2018 - Present
-      academy: Durham University
-      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+    - title: Desarrollo de Aplicaciones Multiplataforma 
+      year: 2021-2023
+      academy: Universidad Europea
+      image: /images/ue.png
+
+    - title: Programa Postgrado Optimux Executive 
+      year: 2015-2016
+      academy: Universidad Francisco de Vitoria
+      image: /images/logo-UFV.webp
+
+    - title: Administracion y Direccion de Empresas 
+      year: 2011-2015
+      academy: Universidad Europea
+      image: /images/ue.png
+
+
+
 leadership:
   enable: true
   item:
@@ -67,6 +127,9 @@ leadership:
       title: Young Leader
       company: The Scout Association
       duration: September 2014 - July 2018
+
+
+
 portfolio:
   filter:
     - label: Web Dev

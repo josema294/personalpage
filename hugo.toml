@@ -1,5 +1,5 @@
 # Base information
-baseURL = "http://localhost:1313/"
+baseURL = "http://jmaranguren.work"
 languageCode = "en_GB"
 title = "Jose Maria Aranguren"
 googleAnalytics = "en_GB"
