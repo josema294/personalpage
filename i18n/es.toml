@@ -1,0 +1,11 @@
+[about]
+other = "Sobre mí"
+
+[blog]
+other = "Blog"
+
+[portfolio]
+other = "Portafolio"
+
+[contact]
+other = "Contacto"

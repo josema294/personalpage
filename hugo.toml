@@ -1,18 +1,29 @@
 # Base information
 baseURL = "http://jmaranguren.work"
-languageCode = "es-ES"
+languageCode = "en"
 title = "Jose Maria Aranguren"
+DefaultContentLanguage = "en"
 #googleAnalytics = ""
 
 #Languajes setup 
 
 [languages]
   [languages.en]
-    title = "Jose Maria Aranguren"
-    weight = 2
-  [languages.es]
-    title = "Jose Maria Aranguren"
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Jose Maria Aranguren'
     weight = 1
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es-ES'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    title = 'Jose Maria Aranguren'
+    weight = 2
 
 
 
