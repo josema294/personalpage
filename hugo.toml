@@ -2,7 +2,18 @@
 baseURL = "http://jmaranguren.work"
 languageCode = "es-ES"
 title = "Jose Maria Aranguren"
-googleAnalytics = "es-ES"
+#googleAnalytics = ""
+
+#Languajes setup 
+
+[languages]
+  [languages.en]
+    title = "Jose Maria Aranguren"
+    weight = 1
+  [languages.es]
+    title = "Jose Maria Aranguren"
+    weight = 2
+
 
 
 [module]
