@@ -3,7 +3,7 @@ filter:
     value: web-dev
 
   - label: Android
-    value: Android
+    value: android
 
   - label : Profesional
-    value: Profesional
+    value: profesional
