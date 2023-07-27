@@ -3,5 +3,8 @@
     "build": "amazon-linux-extras install golang1.11 && hugo",
     "dev": "hugo server"
   },
-  "version": "3.6.1"
+  "version": "3.6.1",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }
