@@ -26,23 +26,23 @@ googleAnalytics = "es-ES"
 # navigation
 [menu]
 
-  [[menu.main]]
-  name = "Sobre mi"
+   [[menu.main]]
+  identifier = "about"
   URL = "about"
   weight=1
 
   [[menu.main]]
-  name = "Blog"
+  identifier = "blog"
   URL = "blog"
   weight=2
 
   [[menu.main]]
-  name = "Portafolio"
+  identifier = "portfolio"
   URL = "portfolio"
   weight=3
 
   [[menu.main]]
-  name = "Contacto"
+  identifier = "contact"
   URL = "contact"
   weight=4
 
