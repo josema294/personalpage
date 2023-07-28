@@ -56,7 +56,7 @@ author = "Jose Maria Aranguren"
 
   [params.contact]
   enable = true
-  formAction = "" #contact form works with formspree.io
+  formAction = "https://forms.un-static.com/forms/de0b2852498092671ad422fbc478b21753a3ef98" #contact form works with formspree.io
 
   [params.footer]
   email = "jmarangueren@gmail.com"
