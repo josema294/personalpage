@@ -2,20 +2,9 @@
 
 <!--  {{ partial "page-title.html" . }}-->
 <style>
- p {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-p img {
-  flex: 1 0 30%; /* Cambiar este valor según tus necesidades */
-  margin: 5px;
-  object-fit: scale-down;
-  height: auto;
-  width: auto;
-}
-
+  p {
+    margin: 0
+  }
 
   .people-wrap {
     display: inline-flex;
@@ -50,8 +39,7 @@ p img {
   }
 
   .content img {
-    /* Esto hacia un box envoltorio para cada imagen, lo quito porque no me convence la estetica */
-    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -91,11 +79,19 @@ p img {
     padding: 8px;
   }
 
-  img {
+  .example {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  grid-gap: 10px;
 }
+
+.img3x3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-gap: 10px;
+}
+
+
 
 </style>
 

@@ -36,16 +36,22 @@ Dameuncoctel es una aplicacion programada en para Android con Kotlin y que se va
 * Filtros por ingredientes, puedes seleccionar uno o varios ingredientes, y elegir que se filtren por cualquiera de los marcados, o por todos ellos simultaneamente.
 * Modo Oscuro disponible en las opciones.
 
+{{< startGrid >}}
 ![Imagen de ejemplo de la aplicacion, Activity login](https://dameuncoctel.netlify.app/images/Screenshot_20230607_1.png)
 ![Imagen de ejemplo de la aplicacion, buscador de cócteles](https://dameuncoctel.netlify.app/images/Screenshot_20230607_5.png)
 ![Imagen de ejemplo de la aplicacion, Activity crea tu coctel ](https://dameuncoctel.netlify.app/images/Screenshot_20230607_8.png)
-
 ![Imagen de ejemplo de la aplicacion, listado de populares](https://dameuncoctel.netlify.app/images/Screenshot_20230607_3.png)
 ![Imagen de ejemplo de la aplicacion, filtrado por categorias](https://dameuncoctel.netlify.app/images/Screenshot_20230607_6.png)
 ![Imagen de ejemplo de la aplicacion, modo oscuro](https://dameuncoctel.netlify.app/images/Screenshot_20230607_9.png)
-
 ![Imagen de ejemplo de la aplicacion, listado de favoritos](https://dameuncoctel.netlify.app/images/Screenshot_20230607_4.png)
 ![Imagen de ejemplo de la aplicacion, Activity filtro por ingredientes](https://dameuncoctel.netlify.app/images/Screenshot_20230607_7.png)
 ![Imagen de ejemplo de la aplicacion, Activity guia usuario](https://dameuncoctel.netlify.app/images/Screenshot_20230607_11.png)
+{{< endGrid >}}
 
 
+
+
+
+<!-- {{< imgClass src="https://dameuncoctel.netlify.app/images/Screenshot_20230607_1.png" class="imgClass" >}}
+{{< imgClass src="https://dameuncoctel.netlify.app/images/Screenshot_20230607_5.png" class="imgClass" >}}
+{{< imgClass src="https://dameuncoctel.netlify.app/images/Screenshot_20230607_8.png" class="imgClass" >}} -->
