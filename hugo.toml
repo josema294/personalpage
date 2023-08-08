@@ -53,6 +53,12 @@ home = "Home"
 description = "El sitio web de Jose Maria Aranguren, desarrollador"
 author = "Jose Maria Aranguren"
 
+[params.links]
+contact = "/contact"
+
+ 
+
+
 
   [params.contact]
   enable = true
