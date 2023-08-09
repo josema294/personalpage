@@ -36,6 +36,8 @@ Dameuncoctel es una aplicacion programada en para Android con Kotlin y que se va
 * Filtros por ingredientes, puedes seleccionar uno o varios ingredientes, y elegir que se filtren por cualquiera de los marcados, o por todos ellos simultaneamente.
 * Modo Oscuro disponible en las opciones.
 
+A continuacion se muestran capturas de pantallas de la aplicacion para mostrar el aspecto visual de esta:
+
 {{< startGrid >}}
 ![Imagen de ejemplo de la aplicacion, Activity login](https://dameuncoctel.netlify.app/images/Screenshot_20230607_1.png)
 ![Imagen de ejemplo de la aplicacion, buscador de cócteles](https://dameuncoctel.netlify.app/images/Screenshot_20230607_5.png)
