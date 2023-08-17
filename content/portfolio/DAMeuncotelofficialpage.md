@@ -1,16 +1,18 @@
 +++
 categories = ["web-dev"]
-coders = ["https://github.com/josema294"]
+coders = ["josema294"]
 date = 2023-06-19T23:00:00Z
 description = "Pagina web oficial del proyecto de DAMeuncoctel"
 github = ["https://github.com/josema294/DAMeuncoctelwebpage"]
 image = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg"
 title = "DAMeuncoctel webpage"
 type = "post"
+
 [[tech]]
 logo = "https://res.cloudinary.com/samrobbins/image/upload/v1591793276/logos/logos_hugo_h2xbne.svg"
 name = "Hugo"
 url = "https://gohugo.io/"
+
 [[tech]]
 logo = "/logos/html5.svg"
 name = "HTML5"
@@ -20,6 +22,11 @@ url = "https://www.w3.org/html/"
 logo = "/logos/css3.svg"
 name = "CSS3"
 url = "https://www.w3.org/Style/CSS/"
+
+[[tech]]
+logo = "/logos/netlify.svg"
+name = "Netlify"
+url = "https://www.netlify.com/"
 
 [[tech]]
 logo = "/logos/javascript.svg"
