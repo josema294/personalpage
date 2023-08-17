@@ -35,6 +35,7 @@ Dameuncoctel es una aplicacion programada en para Android con Kotlin y que se va
 * Filtros por las categorias de cócteles mas importantes ron, vodka, ginebra y sin alcohol.
 * Filtros por ingredientes, puedes seleccionar uno o varios ingredientes, y elegir que se filtren por cualquiera de los marcados, o por todos ellos simultaneamente.
 * Modo Oscuro disponible en las opciones.
+* Dentro del proyecto, se crea tambien la landing page de la aplicacion, puede consultarse el proyecto particular de esta, ([consultar el proyecto aquí]({{< relref  "/portfolio/DAMeuncoctelwebpage" >}}))
 
 A continuacion se muestran capturas de pantallas de la aplicacion para mostrar el aspecto visual de esta:
 
