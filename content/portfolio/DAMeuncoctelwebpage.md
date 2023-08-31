@@ -4,7 +4,7 @@ coders = ["josema294"]
 date = 2023-06-19T23:00:00Z
 description = "Pagina web oficial del proyecto de DAMeuncoctel"
 github = ["https://github.com/josema294/DAMeuncoctelwebpage"]
-image = "/images/capturasproyectos/dameuncoctelwebpage capture1.png"
+image = "/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture1.png"
 title = "DAMeuncoctel webpage"
 type = "post"
 
@@ -51,10 +51,10 @@ La web esta disponible para deplegada en Netlify en un subdominio de esta por mo
 A continuación se muestran algunas capturas de pantalla del sitio para dar una idea del diseño y la experiencia de usuario:
 
 <!-- {{< startcaptures1x1 >}} -->
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture1.png" class="starcpture1x1" alt="captura del homepage de la web" >}}
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture2.png" class="starcpture1x1" alt="captura deseccion caracteristicas" >}}
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture3.png" class="starcpture1x1" alt="captura dentro de una de las caracteristicas" >}}
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture4.png" class="starcpture1x1" alt="captura de la seccion diseño" >}}
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture5.png" class="starcpture1x1" alt="captura de la seccion conocenos" >}}
-{{< figure src="/images/capturasproyectos/dameuncoctelwebpage capture6.png" class="starcpture1x1" alt="captura de la seccion contacto" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture1.png" class="starcpture1x1" alt="captura del homepage de la web" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture2.png" class="starcpture1x1" alt="captura deseccion caracteristicas" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture3.png" class="starcpture1x1" alt="captura dentro de una de las caracteristicas" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture4.png" class="starcpture1x1" alt="captura de la seccion diseño" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture5.png" class="starcpture1x1" alt="captura de la seccion conocenos" >}}
+{{< figure src="/images/capturasproyectos/dameuncoctelwebpage/dameuncoctelwebpage_capture6.png" class="starcpture1x1" alt="captura de la seccion contacto" >}}
 <!-- {{< endcaptures1x1 >}} -->
