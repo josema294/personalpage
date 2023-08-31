@@ -47,7 +47,7 @@ Este proyecto, más allá de ser un reflejo de mi trabajo, es también una muest
 
 ### Homepage
 
-![Homepage Screenshot](https://jmaranguren.work/personalwebpage%20capture1.png "Homepage Screenshot")
+![Homepage Screenshot](/images/capturasproyectos/personalwebpage/personalwebpage_capture0.png "Homepage Screenshot")
 
 La "homepage" ofrece una panorámica de mi perfil profesional a través de las siguientes secciones:
 
@@ -63,27 +63,27 @@ La "homepage" ofrece una panorámica de mi perfil profesional a través de las s
 
 ### Sobre mi
 
-![About Screenshot](https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1592844637/Screenshot_2020-06-22_Sam_Robbins_1_xop4uu.png "About Screenshot")
+![Sobre mí Screenshot](/images/capturasproyectos/personalwebpage/personalwebpage_capture2.png "Sobre mí Screenshot, con un texto descriptivo y una foto de carnet")
 
-This is the page for a description about you, along with non-technical skills. This uses UIKit grid and cards in a very similar way to the homepage.
+La sección "Sobre mí" sirve como presentación personal y profesional dentro de la página. En ella, los visitantes pueden encontrar una descripción concisa de mi perfil, abarcando desde aspectos personales hasta motivaciones profesionales. Esta sección está diseñada para dar una visión global y humana sobre quién soy, brindando un contexto a las habilidades, experiencia y formación que se muestran en otras partes de la web.
 
 ### Blog
 
-![](https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1593263737/Screenshot_2020-06-27_Sam_Robbins_koy2no.png)
+![Blog](/images/capturasproyectos/personalwebpage/personalwebpage_capture3.png)
 
-If you want to have a blog, this page will serve that purpose. I may end up changing this to a column view rather than a column view in the future, but for the present I think it looks fine.
+La sección "Blog" se dedica a la publicación y recopilación de artículos y entradas escritas por mí. Aquí, los visitantes pueden explorar diversos temas, reflexiones y aprendizajes relacionados con mi área de expertise y otros intereses. Esta sección no solo sirve como plataforma para compartir conocimientos y opiniones, sino también como un registro cronológico de mi evolución y crecimiento profesional.
 
 ### Portafolio
 
-![](https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1593263791/Screenshot_2020-06-27_Sam_Robbins_1_xa3yvj.png)
+![Portafolio](/images/capturasproyectos/personalwebpage/personalwebpage_capture4.png)
 
-This allows you to describe the projects you have created in order to showcase them to people looking at your site.
+La sección "Portafolio" funciona como una vitrina digital de mis proyectos tanto personales como profesionales. Aquí, los visitantes tienen la oportunidad de visualizar y explorar los trabajos que he realizado, desde su concepto inicial hasta su ejecución final. Cada proyecto está acompañado de detalles relevantes y, en algunos casos, enlaces a demos o sitios en vivo. Esta sección es esencial para quienes estén interesados en conocer la calidad, diversidad y enfoque de mi trabajo, ofreciendo una muestra tangible de mis habilidades y experiencia.
 
 ### Contacto
 
-![](https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1593263826/Screenshot_2020-06-27_Sam_Robbins_ce7qsx.png)
+![Contacto](/images/capturasproyectos/personalwebpage/personalwebpage_capture5.png)
 
-This provides a simple contact form which allows users of the site to send you a message. I implemented this using [https://formspree.io/](https://formspree.io/ "https://formspree.io/") as it has a generous free plan and is very simple to integrate.
+La sección "Contacto" ofrece un formulario directo para quienes deseen comunicarse conmigo. Es el medio más rápido y sencillo para enviar consultas, comentarios o propuestas relacionadas con mi trabajo.
 
 <!-- ## Installation
 

@@ -1,5 +1,5 @@
 ---
-title: "Sobre mi"
+title: "Sobre mí"
 date: 2019-05-12T12:14:34+06:00
 description: "Breve descripcion de quien soy y mi background"
 author : "Jose Maria Aranguren"
