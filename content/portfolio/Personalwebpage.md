@@ -4,7 +4,7 @@ coders = ["josema294"]
 date = 2023-08-20T12:00:00Z
 description = "Pagina web personal con portafolio, descripción, blog y metodo de contacto. Realizada con el framework Hugo."
 github = ["https://github.com/josema294/personalpage"]
-image = "/images/capturasproyectos/personalwebpage capture1.png"
+image = "/images/capturasproyectos/personalwebpage_capture1.png"
 title = "Pagina web personal"
 type = "post"
 
